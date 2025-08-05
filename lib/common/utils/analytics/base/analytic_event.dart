@@ -3,4 +3,8 @@ import 'package:flutter_template/common/utils/analytics/base/has_id.dart';
 import 'package:flutter_template/common/utils/analytics/base/has_map_params.dart';
 
 /// Analytics event.
-abstract class AnalyticEvent implements AnalyticAction, HasId, HasMapParams {}
+abstract class AnalyticEvent implements AnalyticAction, HasId, HasMapParams {
+  /// Returns a string representation of the event.
+  @override
+  String toString();
+}
