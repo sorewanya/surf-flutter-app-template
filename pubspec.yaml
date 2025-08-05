@@ -7,7 +7,7 @@ dependencies:
   analytics: 2.0.0
   auto_route: 7.8.4
   cached_network_image: 3.3.1
-  collection: 1.18.0
+  collection: 1.19.1
   dio: 5.4.0
   elementary: 3.0.0
   firebase_core: 2.24.2
@@ -26,7 +26,7 @@ dependencies:
   logger: 1.4.0
   mask_text_input_formatter: 2.9.0
   nested: 1.0.0
-  path: 1.9.0
+  path: 1.9.1
   path_provider: 2.1.2
   provider: 6.1.1
   retrofit: 4.0.3
